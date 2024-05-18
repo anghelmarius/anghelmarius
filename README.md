@@ -1,4 +1,6 @@
 <h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Marius Anghel </h1>
+<h2 align="center">'''The best way to learn something is to build something'''</h1>
+
 
 ## 👨🏻‍💻 About Me:
 
